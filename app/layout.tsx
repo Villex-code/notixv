@@ -15,7 +15,9 @@ export default function RootLayout({
   return (
     <html lang="en">
       <body suppressHydrationWarning={true}>
-        <TransitionTemplate>{children}</TransitionTemplate>
+        {/*<TransitionTemplate>*/}
+        {children}
+        {/*</TransitionTemplate>*/}
       </body>
     </html>
   );

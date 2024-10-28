@@ -5,27 +5,34 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8e98469e-28ac-443c-af09-f7e0ac920a58" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/app/test/page.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/test1/page.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/components/pageTransitions/CurveTransition.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/components/pageTransitions/InnerPerspective.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/components/pageTransitions/SlideTransition.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/components/pageTransitions/StairsTransition.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/components/sections/AwwwardsYear.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/utils.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/image1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/image2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/image3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/image4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/image5.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/svgs/arrowRight.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.eslintrc.json" beforeDir="false" afterPath="$PROJECT_DIR$/.eslintrc.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/components/text/BoxReveal/BoxReveal.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/components/text/BoxReveal/page.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/components/text/Multiword/MultiwordAnimation.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/components/text/Multiword/page.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/components/text/NumberCount/NumberCount.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/components/text/NumberCount/page.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/components/text/ScrollVelocity/ScrollVelocity.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/components/text/ScrollVelocity/page.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/components/text/SeparateText/SeparateText.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/components/text/SeparateText/page.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/components/text/SlideInText/SlideInText.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/components/text/SlideInText/page.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/components/text/StaggeredWords/StaggeredWords.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/components/text/StaggeredWords/page.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/components/text/TextBlur/TextBlur.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/components/text/TextBlur/page.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/components/text/TextMatrix/TextMatrix.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/components/text/TextMatrix/page.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/components/text/TextScrollReveal/TextScrollReveal.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/components/text/TextScrollReveal/page.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/components/text/TextSpacing/TextSpacing.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/components/text/TextSpacing/page.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/components/text/Typewriter/Typewriter.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/components/text/Typewriter/page.tsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/globals.css" beforeDir="false" afterPath="$PROJECT_DIR$/app/globals.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/fonts/GeistMonoVF.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/fonts/GeistVF.woff" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/app/layout.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/layout.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tailwind.config.ts" beforeDir="false" afterPath="$PROJECT_DIR$/tailwind.config.ts" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,6 +42,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Villex-code&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Villex-code/notixv.git&quot;,
+    &quot;accountId&quot;: &quot;867c833a-cf00-4447-9c7a-caa0bd87e1a3&quot;
+  }
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 7
 }</component>
@@ -69,6 +88,7 @@
       <recent name="$PROJECT_DIR$/public/images" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/app/components/text/NumberCount" />
       <recent name="$PROJECT_DIR$/public/svgs" />
     </key>
   </component>
@@ -92,6 +112,8 @@
       <workItem from="1729684624072" duration="4985000" />
       <workItem from="1729689703179" duration="808000" />
       <workItem from="1729695176119" duration="96000" />
+      <workItem from="1729861669150" duration="2916000" />
+      <workItem from="1730138438349" duration="1988000" />
     </task>
     <servers />
   </component>
